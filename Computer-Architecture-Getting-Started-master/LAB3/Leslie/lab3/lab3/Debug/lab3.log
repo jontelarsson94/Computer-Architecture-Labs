@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : The process cannot access the file 'c:\users\lesliedahlberg\documents\github\computer-architecture-lab\lab3\leslie\lab3\debug\lab3.exe' because it is being used by another process.
+  lab3.cpp
+  lab3.vcxproj -> C:\Users\lesliedahlberg\Documents\GitHub\Computer-Architecture-Lab\LAB3\Leslie\lab3\Debug\lab3.exe
